@@ -1,0 +1,1431 @@
+﻿                                                                                                            Structured Finance: ABS  | New Issue Report  
+
+                                                                                                                                                                                                   
+  
+  
+
+                                           PEAC Solutions  
+                          Receivables 2025-1  
+
+                                                              $687.270 million Asset-Backed Notes  
+
+                                                                                                                                       
+     
+
+  
+Analytical Contacts                                                                               
+                                                                                                  
+Joanne DeSimone, Managing Director                                                               Edward Napoli, Director  
++1 646-731-2306                                                                                  +1 646-731-1284  
+joanne.desimone@kbra.com                                                                         edward.napoli@kbra.com  
+                                                                                                  
+Zachary Lee, Analyst                                                                             Richard Jackson, Director  
++1 646-731-1252                                                                                  +1 646-731-1446  
+zachary.lee@kbra.com                                                                             richard.jackson@kbra.com  
+
+PEAC 2025-1                                                                                    1                                                                      February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                                                       
+  
+Table of Contents  
+  
+Executive Summary ....................................................................................................................................... 3  
+Key Credit Considerations ............................................................................................................................... 4  
+Transaction Summary ..................................................................................................................................... 5  
+Key Changes From PEAC 2024-2 ...................................................................................................................... 5  
+Performance of Prior PEAC Solutions Equipment ABS .......................................................................................... 7  
+KBRA Process ................................................................................................................................................ 7  
+Servicer Review ............................................................................................................................................. 7  
+Collateral Analysis ......................................................................................................................................... 11  
+Managed Portfolio Performance ....................................................................................................................... 15  
+     Delinquency .............................................................................................................................................. 15  
+     CNL ......................................................................................................................................................... 16  
+KBRA CNL Assumption ................................................................................................................................... 17  
+KBRA Comparative Analytic Tool (KCAT) .......................................................................................................... 17  
+Cashflow Analysis.......................................................................................................................................... 18  
+Rating Sensitivity and Surveillance .................................................................................................................. 18  
+ESG Considerations ....................................................................................................................................... 18  
+Transaction Structure .................................................................................................................................... 20  
+
+  
+                                                               
+
+PEAC 2025-1                                                                                                     2                                                                                    February  11, 2025  
+
+  
+﻿                                                                                                                                                                                        
+  
+
+Executive Summary  
+This  report  summarizes  KBRA’s  analysis  of  PEAC  Solutions  Receivables  2025-1,  LLC  (PEAC  2025-1),  an  equipment  ABS  
+transaction. This report is based on information as of February 11, 2025. This report does not constitute a recommendation to  
+buy, hold, or sell securities.   
+  
+                                                                                 Rated Notes 
+
+                             Initial Amount             Interest                                             Initial Hard Credit  
+         Class                                                             Final Maturity Date                                                         KBRA Rating 
+                                  ($000s)                  Rate                                                 Enhancement 
+
+           A-1                             226,000       4.592%                  February 20, 2026                   21.00%                                K1+ (sf) 
+
+           A-2                             250,110        4.94%                    October 20, 2028                  21.00%                                AAA (sf) 
+
+           A-3                             135,740        5.04%                         July 20, 2032                21.00%                                AAA (sf) 
+
+            B                               33,090        5.20%                         July 20, 2032                16.70%                                 AA (sf) 
+
+            C                               42,330        5.49%                         July 20, 2032                11.20%                                  A (sf) 
+
+          Total                            687,270 
+                                                                                                                                                                                        
+  
+
+Marlin Leasing Corporation was originally founded as a small ticket independent equipment leasing company in 1997. During  
+July 2022, Marlin Leasing Corporation elected to rebrand as Marlin Leasing Corporation d/b/a PEAC Solutions (PEAC Solutions  
+or the Company), to align with the family of finance companies acquired by HPS Investment Partners, LLC, including PEAC UK  
+and PEAC Europe. PEAC 2025-1 represents PEAC Solutions’ 15th equipment ABS. The Company is a nationwide provider of  
+commercial lending solutions, and services small and mid-size businesses. The Company’s products and services include loans  
+and leases for the acquisition of mission critical commercial equipment as well as working capital loans. The Company will offer  
+equipment loans and leases and working capital loans generally between $250,000 and $5 million, respectively, for any single  
+loan or lease. PEAC Solutions entered into a forward flow agreement with Xerox Corporation (Xerox) and its captive financing  
+unit in December 2022. Since January 2024, PEAC Solutions also acts as Xerox’s exclusive origination and servicing partner for  
+Xerox’s  dealer owned  indirect originations.  PEAC Solutions  has purchased approximately $1.70  billion in Xerox receivables  
+through November 2024. PEAC 2025-1 represents the third PEAC Solutions equipment ABS to include Xerox receivables.  
+  
+
+The aggregate securitization value (ASV) represents the discounted value of the projected cash flows of the contracts included  
+in the collateral pool using a discount rate based on the interest rate on the notes plus fees and other amounts for the lease and  
+loan contracts, as well as using the contracts’ rate for the working capital loans. As of December 31, 2024, based on a statistical  
+discount rate of 7.00% for the  leases and loans, the aggregate securitization value (Cut-off ASV)  is  approximately $766.07  
+million. As of December 31, 2024, based on the final discount rate of 6.75% for the leases and loans, the aggregate securitization  
+value is $769.63 million. The Cut-off ASV will include cashflows from three types of receivables: small ticket equipment contracts  
+originated by PEAC Solutions (Equipment Receivables) (49.24%), equipment contracts financing small- to mid- ticket equipment  
+originated or acquired by Xerox and purchased by PEAC Solutions (Xerox Equipment Receivables) (46.10%) and working capital  
+loans (Working Capital  Receivables) (4.66%). The contracts are “hell or high water” obligations without ongoing performance  
+obligations of the lessors.  
+  
+
+PEAC 2025-1 will issue five  classes of notes, including a short-term tranche. Credit enhancement includes excess spread, a  
+reserve account, overcollateralization and subordination  (except for Class C Notes). The overcollateralization is subject to a  
+target equal to 14.00% of the current ASV and a floor equal to 1.00% of the initial ASV. The reserve account is funded at 0.50%  
+of the initial ASV and is non-amortizing.  
+  
+
+The table below shows transaction parties.  
+  
+
+  Transaction Parties  
+
+  Issuer                                                         PEAC Solutions Receivables 2025-1 LLC  
+
+  Servicer/Administrator                                         Marlin Leasing Corporation, d/b/a PEAC Solutions  
+
+  Sponsor/Seller                                                 AVF III US Aggregator, L.P.  
+
+  Back-Up Servicer                                               U.S. Bank National Association  
+
+  Indenture Trustee                                              U.S. Bank Trust Company, National Association  
+
+                                                                 BofA Securities, Inc.  
+  Initial Purchasers                                             BNP Paribas Securities Corp.   
+                                                                 Wells Fargo Securities, LLC  
+
+PEAC 2025-1                                                                              3                                                                   February  11, 2025  
+
+  
+﻿                                                                                                                                                                      
+  
+
+  Key Credit Considerations                                                                                                                         +/-  
+
+  Operating History/Experienced Management  
+  PEAC Solutions (including as Marlin Leasing Corporation) has originated and serviced small-ticket  
+  equipment loans and leases since 1997  and working capital loans since 2015. The management  
+ team averages over 20 years of experience in equipment finance either at PEAC Solutions or other  
+  large players in the industry including De Lage Landen and CIT.   
+                                                                                                                                                      +  
+  PEAC Solutions (including as Marlin Leasing Corporation) has been a successful servicer of 14 prior  
+  equipment ABS transactions; of these, 11 have fully repaid and three are currently outstanding.  
+ The Company  issued  ten equipment ABS  transactions  through February 2010  and then did not  
+                                          th 
+  issue again until 2018. The 11   ABS, Marlin Receivables 2018-1 LLC, is the most recent transaction  
+ to payoff. It fully repaid in December 2021 with lifetime cumulative net losses (CNL) of 3.33% of  
+ the original pool balance.  
+
+  Collateral Characteristics  
+ The  transaction  benefits  from  diversification  by  obligor  and  geography. The  top  one  and  five  
+  obligors are 0.45% and 1.60%, respectively, of the Cut-off ASV. The largest states are California  
+  (14.30%) and Texas (11.37%) and all other states are less than 10.00%.  
+                                                                                                                                                      +  
+ The Xerox Equipment Receivables (46.10% of the Cut-off ASV) have historically exhibited lower  
+  losses as compared to Equipment Receivables.   
+   
+  See Collateral Analysis to view the characteristics of the Cut-off ASV.  
+
+  Integration of Origination/Servicing for Xerox Receivables  
+  PEAC Solutions has been purchasing Xerox contracts since 2022 and in January 2024 became the  
+  servicer and exclusive funding partner for Xerox’s dealer owned indirect originations and will be  
+ the servicer for all of the contracts in PEAC 2025-1. However, the servicing and originations process  
+ for the Xerox Equipment Receivables is currently in a transition process under which PEAC Solutions                                                  -  
+  services the Xerox originated receivables using Xerox’s systems but will transition to servicing on  
+  PEAC  Solutions’  systems. This  transition  is  expected  to  be  complete  by  March  2025.  KBRA’s  
+  analysis considers potential transition impacts on the performance of the receivables. See Cashflow  
+ Analysis.  
+
+ Transaction Structure  
+ The credit enhancement levels in the transaction are sufficient to cover KBRA’s stressed cash flow  
+  assumptions  for  each  class  under  the  corresponding  stress  levels  for  that  class.   Credit  
+  enhancement consists of overcollateralization, excess spread, a reserve account and subordination  
+  (except for Class C Notes).  
+   
+  Overcollateralization:  At  closing  the  overcollateralization  will  be  approximately  10.70%  of  the  
+  $769.63  million  initial ASV. On each monthly payment date collections will be used to reduce  
+  outstanding principal on the most senior class of notes until the overcollateralization  reaches its  
+ target level of  14.00% of the current ASV. Once this level is attained, the overcollateralization is  
+  permitted to amortize to a floor level of 1.00% of the initial ASV.                                                                                 +  
+   
+  Excess  Spread:  The  transaction  contains  excess  spread,  which  results  from  the  excess  of  the  
+  contract yield over the weighted average interest rate on the notes plus transaction expenses. The  
+  discount rate of 6.75%, for the equipment loans and leases, plus the weighted average contract  
+  rates for the working capital loans,  as compared to the note rate plus servicing fees results in  
+  approximately 1.14% per year in initial excess spread available to cover losses.  
+   
+  Reserve Account:  At closing a reserve account will be funded with  an amount equal to  0.50%  
+  (approximately $3.85  million) of the ASV. The reserve account is non-amortizing and therefore  
+  grows as a percentage of the current ASV as the pool amortizes.   
+
+  Back-up Servicer  
+  U.S.  Bank  National  Association  will  be  the  back-up  servicer.  The  back-up  servicer  receives  a  
+  monthly data tape from PEAC Solutions. In the event that PEAC Solutions is terminated as servicer,                                                  +  
+
+  U.S. Bank National Association will become the successor servicer.  
+
+  
+
+PEAC 2025-1                                                                     4                                                            February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                                          
+  
+
+Transaction Summary  
+The table below compares the characteristics of the collateral pool and structure of PEAC 2025-1 to prior PEAC Solutions’  
+sponsored equipment ABS transactions.  
+  
+                                                                PEAC 2025-1                              PEAC 2024-2                               PEAC 2024-1                              Marlin 2022-1 
+ Cut-Off Date                                                    12/31/2024                                7/31/2024                                 4/30/2024                                4/30/2022 
+                                                                                                 Collateral Stratification 
+ Aggregate Securitization Value (ASV) ($000s)                                    $766,073                                  $444,163                                  $668,151                                 $536,938 
+ Number of Contracts                                                                36,306                                    31,204                                   25,115                                    39,161 
+ Average Securitization Value                                                      $21,100                                  $14,234                                   $26,604                                  $13,711 
+ Weighted Average Original Term (Months)                                                 53                                       56                                        52                                       53 
+ Weighted Average Remaining Term (Months)                                               46                                        36                                        48                                       37 
+ Weighted Average Seasoning (Months)                                                      7                                       20                                         4                                        17 
+ Residual % ASV                                                                     1.37%                                     4.29%                                     2.12%                                    2.04% 
+                                                                                              Receivable Type Distribution 
+ Xerox Equipment                                                                   46.10%                                    50.04%                                   50.00%                                           - 
+ Equipment                                                                         49.24%                                    48.62%                                   44.71%                                    91.00% 
+ Working Capital                                                                    4.66%                                     1.34%                                     5.29%                                    3.00% 
+ Third Party Large Ticket                                                                 -                                         -                                         -                                  7.00% 
+                                                                                                  Obligor Distribution 
+ Top Obligor                                                                        0.45%                                     0.67%                                     0.67%                                    2.34% 
+ Top Five Obligors                                                                  1.60%                                     2.59%                                     2.32%                                    4.91% 
+ Top 10 Obligors                                                                    2.72%                                     4.06%                                     3.83%                                    5.96% 
+                                                                                                  Industry Distribution 
+ Industry 1                                                       Service Sector: 54.41%                    Service Sector: 55.08%                    Service Sector: 48.47%                           Medical: 12.90% 
+ Industry 2                                           Public, Health & Education: 16.83%        Public, Health & Education: 14.53%        Public, Health & Education: 14.59%           Miscellaneous Services: 10.83% 
+ Industry 3                                                                Trading: 8.57%                          Trading: 10.17%                            Trading: 9.73%                              Retail: 9.88% 
+ Industry 4                                                         Manufacturing: 6.96%                      Manufacturing: 8.17%                     Manufacturing: 8.97%                Construction Trades: 9.28% 
+ Industry 5                                                         Transportation: 3.07%                    Transportation: 4.21%                     Transportation: 2.71%                     Manufacturing: 7.05% 
+                                                                                              Equipment Type Distribution 
+ Equipment Type 1                                              Copiers & Printing: 55.79%                Copiers & Printing: 71.25%               Copiers & Printing: 63.75%                           Copiers: 19.19% 
+ Equipment Type 2                                              Other Construction: 6.40%                          Other C&I: 5.43%                          Other C&I: 5.94%         Titled Vehicle-Commercial: 9.58% 
+ Equipment Type 3                                                       Other C&I: 5.60%         Titled Vehicles-Commercial: 5.29%                 Other Construction: 5.82%    Other Commercial & Industrial: 5.51% 
+ Equipment Type 4                                                 Working Capital: 4.66%                 Other Construction: 3.71%        Titled Vehicles-Commercial: 4.09%                 Other Construction: 4.80% 
+ Equipment Type 5                                      Titled Vehicles-Commercial: 3.68%                    Working Capital: 1.34%       Exam/Patient Room Devices: 1.91%                Titled Vehicle-Trailers: 3.01% 
+                                                                                                Geographic Distribution 
+ State 1                                                                      CA: 14.30%                                CA: 12.53%                                CA: 13.33%                               CA: 12.52% 
+ State 2                                                                       TX: 11.37%                               TX: 12.49%                                TX: 11.66%                               TX: 12.07% 
+ State 3                                                                        FL: 8.43%                                 FL: 9.09%                                 FL: 7.66%                                FL: 9.65% 
+ State 4                                                                        NY: 6.53%                                 NY: 7.88%                                NY: 6.94%                                 NY: 6.81% 
+ State 5                                                                        NJ: 3.31%                                  IL: 3.89%                               PA: 4.28%                                 NJ: 4.44% 
+                                                                                                 Note Balance ($000s) 
+ Class A Notes                                                                     611,850                                  351,100                                   536,860                                  415,590 
+ Class B Notes                                                                      33,090                                    18,200                                   26,730                                    24,690 
+ Class C Notes                                                                      42,330                                    23,050                                   36,410                                    23,620 
+ Class D Notes                                                                            -                                         -                                         -                                  27,920 
+                                                                                                                  Initial Note Rating 
+ Class A Notes                                                                K1+/AAA(sf)                               K1+/AAA(sf)                               K1+/AAA(sf)                              K1+/AAA(sf) 
+ Class B Notes                                                                       AA(sf)                                   AA(sf)                                    AA(sf)                                  AA+(sf) 
+ Class C Notes                                                                        A(sf)                                     A(sf)                                    A(sf)                                   A+(sf) 
+ Class D Notes                                                                            -                                         -                                         -                                 BBB(sf) 
+                                                                                               Credit Enhancement % Initial ASV (1) 
+
+ Initial O/C                                                                       10.70%                                    11.67%                                   10.20%                                     8.40% 
+ Target O/C                                                                        14.00%                                    16.65%                                   13.40%                                    12.00% 
+ O/C Floor                                                                          1.00%                                     1.00%                                     1.00%                                    1.00% 
+ Reserve Account                                                                    0.50%                                     0.50%                                     0.50%                                    0.50% 
+                                                                                Total Initial Hard Credit Enhancement % Initial ASV 
+ Class A Notes                                                                     21.00%                                    21.45%                                   20.15%                                    23.10% 
+ Class B Notes                                                                     16.70%                                    17.35%                                   16.15%                                    18.50% 
+ Class C Notes                                                                     11.20%                                    12.17%                                   10.70%                                    14.10% 
+ Class D Notes                                                                            -                                         -                                         -                                  8.90% 
+                                                                                  KBRA Base Case Cumulative Net Loss Expectation 
+                                                                             3.30%-3.40%                                 2.60-2.70%                             2.95%-3.05%                              3.30%-3.40% 
+ (1)Percentages are of initial pool balance, except target O/C which is percentage of current pool. 
+                                                                                                                                                                                                                          
+  
+
+ Key Changes From PEAC 2024-2  
+This section summarizes Company updates and collateral and structural changes since  PEAC 2024-2.  
+  
+
+  Company                                        PEAC Solutions has more than $3.4 billion of annual originations across 13 countries  and  
+                                                 continues to be wholly-owned by HPS.  HPS is a global private investment firm founded in  
+                                                 2007 with approximately $148 billion of assets under management as of September 2024.   
+                                                   
+                                                 As  of  November  30,  2024,  PEAC  Solutions  has  acquired  approximately  $1.70  billion  in  
+                                                 equipment loans and leases from Xerox.   
+
+  Collateral                                     The primary collateral characteristic changes are summarized below:  
+  Characteristics                                  
+                                                 ▪      Less  Seasoning:  The weighted average seasoning has  decreased  to seven months  
+                                                        from 20 months.   
+                                                 ▪      Higher Average Contract Balance: The average contract balance has increased to  
+                                                        $21,100 from $14,234 as a result of the lower level of seasoning, which leads to less  
+                                                        amortization.   
+
+PEAC 2025-1                                                                                                5                                                                               February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                        
+  
+
+                                             ▪     Segment  Mix  Changes:  The  majority  of  the  pool  continues  to  be  made  up  of  
+                                                   Equipment   Receivables   and   Xerox   Equipment   Receivables,   however   Equipment  
+                                                   Receivables are the highest segment concentration up to 49.24% from 48.62% while  
+                                                   Xerox Equipment Receivables are down to 46.10% from 50.04% and are no longer the  
+                                                   largest segment concentration. Working Capital Receivables  increased to 4.66% from  
+                                                   1.34%.  Xerox  Equipment  Receivables  have  historically  exhibited  lower  losses  as  
+                                                   compared to Equipment Receivables and Working Capital Receivables.  
+                                             ▪     Decreased Residuals: The residuals have decreased to 1.37% from 4.29%.  
+                                             ▪     Lower Obligor Concentrations: The obligor concentrations are lower with the top one  
+                                                   and  top  five  obligors  decreased  to  0.45%  and  1.60%  from  0.67%  and  2.59%,  
+                                                   respectively. This results from the increased percentage of Working Capital Receivables  
+                                                   which increases the overall distribution of obligors.  
+                                             ▪     Lower Copiers & Printing Equipment Type: The top equipment type continues to be  
+                                                   Copiers & Printing  but the concentration decreased to 55.79% from 71.25% resulting  
+                                                   from the decreased percentage of Xerox Equipment Receivables that are concentrated  
+                                                   in this equipment type, as well as a decreased concentration of Copiers & Printing within  
+                                                   the Equipment Receivables.  
+                                               
+
+  Credit                                     The  table  below  compares  initial  hard  credit  enhancement  and  KBRA’s  base  case  loss  
+  Enhancement/Expected                       assumptions for PEAC 2025-1 and PEAC 2024-2  
+  Loss                                         
+
+                                                                                                 PEAC 2025-1                       PEAC 2024-2             Difference (PEAC 2025-1 Vs PEAC 2024-2) 
+                                                                                                                           Credit Enhancement % Initial ASV (1) 
+
+                                             Initial O/C                                                         10.70%                            11.67%                                   -0.97% 
+                                             Target O/C                                                          14.00%                            16.65%                                   -2.65% 
+                                             O/C Floor                                                            1.00%                             1.00%                                    0.00% 
+                                             Reserve Account                                                      0.50%                             0.50%                                    0.00% 
+                                                                                                              Total Initial Hard Credit Enhancement % Initial ASV 
+                                             Class A Notes                                                       21.00%                            21.45%                                   -0.45% 
+                                             Class B Notes                                                       16.70%                            17.35%                                   -0.65% 
+                                             Class C Notes                                                       11.20%                            12.17%                                   -0.97% 
+                                                                                                                KBRA Base Case Cumulative Net Loss Expectation 
+                                                                                                            3.30%-3.40%                         2.60-2.70%                                   0.70% 
+                                             (1)Percentages are of initial pool balance, except target O/C which is percentage of current pool. 
+                                                                                                                                                                                                     
+                                                                                                                          
+                                              ▪      KBRA’s base case CNL  is  higher reflecting the  decrease in seasoning  as well as the  
+                                                     segment mix change with less Xerox Equipment Receivables.  
+                                              ▪      Total hard credit enhancement has decreased for all classes.  
+                                              ▪      Excess spread is lower at approximately 1.14% per year compared to 1.28% per year.  
+                                               
+                                             The  credit   enhancement  levels  for  each  class  are  sufficient  to  withstand  KBRA’s  
+                                             corresponding stressed cash flow assumptions for each rated note class.  KBRA considered  
+                                             multiples above the multiple range  in our methodology  for the Class A and B  ratings  to  
+                                             reflect  adjustment  for  potential  servicing  integration  impacts  and  recent  volatility  of  
+                                             Equipment Receivable losses.  
+
+  
+
+                                                       
+
+PEAC 2025-1                                                                                      6                                                                         February  11, 2025  
+
+  
+﻿                                                                                                                                                                           
+  
+
+Performance of Prior PEAC Solutions Equipment ABS  
+KBRA’s most recent surveillance review of PEAC Solutions’  Marlin 2022-1, was completed in June 2024.  See  Marlin  
+Receivables 2022-1 LLC Surveillance Report. The table below shows the performance of the outstanding transactions as  
+of the January 2025 payment date report. To date the transactions have paid timely interest payments.   
+  
+                                      Initial Note           Outstanding  
+                                                                                                                    Total        Cumulative             Cumulative  
+ Transaction                              Principal        Note Principal           Note Factor 
+                                                                                                       Delinquencies              Gross Loss                Net Loss 
+                                            ($000)                   ($000) 
+ Marlin 2022-1                        491,820,000                75,263,190                15.30%                  4.12%                 3.45%                  3.00% 
+
+ PEAC 2024-1                          600,000,000              459,481,333                 76.58%                  5.45%                 0.56%                  0.55% 
+
+ PEAC 2024-2                          392,350,000              337,529,978                 86.03%                  4.57%                 0.31%                  0.30% 
+                                                                                                                                                                           
+  
+
+KBRA Process  
+KBRA has analyzed this transaction using the Equipment Lease & Loan Global ABS Methodology, the Global Structured Finance  
+Counterparty  Methodology,  and  the  ESG  Global  Rating  Methodology.  In  applying  the  methodology,  KBRA  analyzed  PEAC  
+Solutions’  static  pool  data  and the  underlying  collateral pool  and  analyzed the capital structure  using  stressed  cash  flow  
+assumptions. KBRA considered its operational review of  PEAC  Solutions  as well as periodic update calls with the Company.  
+Operative agreements and legal opinions were reviewed prior to closing.  
+  
+
+Servicer Review  
+PEAC Solutions provided KBRA with information on the Company and its policies and processes, a summary of which is below.  
+  
+
+Company Overview and History  
+PEAC Solutions is a member of the PEAC family of finance companies, which also  includes PEAC UK and PEAC Europe. PEAC  
+stands for Pan-European Americas Capital Solutions. Collectively, the PEAC family of companies has more than $3.4 billion of  
+annual originations across 13 countries and is owned by funds managed by HPS Investment Partners LLC (HPS). HPS is a global  
+private investment firm founded in 2007 with approximately $148 billion of assets under management as of September 2024.  
+  
+PEAC Solutions’ was founded as Marlin Leasing Corporation in 1997 as an independent small ticket commercial finance company.  
+In 2003, in anticipation of an initial public offering, Marlin Business Services Corp.  (MBSC) was incorporated, and operations  
+were reorganized into a holding company structure by merging Marlin Leasing Corporation with a wholly owned subsidiary of  
+MBSC. As a result, all former shareholders of Marlin Leasing Corporation became shareholders of MBSC. The initial public offering  
+of common stock of MBSC occurred on November 12, 2003.  
+  
+On January 20, 2022, MBSC was acquired by funds that are managed by HPS. As a result of that acquisition, MBSC's common  
+stock is no longer listed and, instead, MBSC is now wholly owned by Madeira Holdings, LLC. After the acquisition of MBSC, Marlin  
+Leasing Corporation remains in existence as MBSC'’s primary operating subsidiary. During July 2022, Marlin Leasing Corporation  
+elected to rebrand as Marlin Leasing Corporation d/b/a PEAC Solutions to align with the family of finance companies acquired by  
+HPS. In February 2024, PEAC Solutions launched an inventory finance program to provide short-term financing (3-24 months)  
+which enables dealers to stock optimal inventory,  and distributors to import equipment for sale. The Company offers  lines  
+between $250,000-$5 million. Inventory financing lines are not included in PEAC 2025-1.  
+  
+Today PEAC Solutions is a nationwide provider of commercial lending solutions and services small and mid-size businesses. The  
+Company’s products and services include loans and leases for the acquisition of mission critical commercial equipment as well  
+as working capital loans.  Equipment loans and leases and working capital loans generally have a maximum of $5 million and  
+$250,000, respectively, for any single loan or lease. PEAC Solutions is headquartered in Mount Laurel, New Jersey, with additional  
+offices in Jacksonville, FL, Las Vegas, NV and Philadelphia, PA.   
+  
+
+Xerox Partnership  
+In December 2022, PEAC Solutions entered into a forward flow agreement with the  captive finance business of Xerox  that  
+provides global financing solutions for customer purchases of Xerox equipment, as well as non-captive lease financing to end- 
+user customers and provides financing products to multi-line dealers and other vendors. Originations fall into three channels  
+across direct and indirect:  
+  
+▪     Direct: sales made directly from Xerox mostly to large enterprise customers.  
+▪     Indirect XBS: sales of Xerox copiers and ancillary items by Xerox-owned dealerships.  
+▪     Indirect ADR: sales from independent dealers that market Xerox, other copier brands and related equipment .  
+  
+
+PEAC 2025-1                                                                        7                                                              February  11, 2025  
+
+  
+﻿                                                                                                                                                                       
+  
+As of  November  2024, PEAC  Solutions  has acquired approximately  $1.70  billion in equipment loans and leases  from  
+Xerox.  Effective January 2024, PEAC  Solutions  and Xerox  expanded their relationship and  entered into a servicing  
+agreement and a transition services agreement  pursuant to which PEAC Solutions services indirect leases retained by  
+Xerox  and  leases purchased from Xerox.  Under the expanded relationship,  PEAC Solutions  acts  as Xerox’s exclusive  
+origination and servicing partner for all of Xerox’s dealer owned indirect originations. Currently, PEAC solutions services  
+the Xerox originated receivables using Xerox’s servicing systems.  
+  
+
+Management  
+  
+Bill Stephenson-Global Chief Executive Officer  
+As Global CEO, Mr. Stephenson is responsible for the implementation of the platforms' strategic plans, with a focus on  
+expanding and further integrating their global footprint to deliver integrated financial solutions to manufacturers and  
+distribution partners in Europe and the United States. Mr. Stephenson has held a variety of senior industry positions  
+over the past three decades, most recently serving as CEO and Chairman of DLL Financial Services Inc., a global asset  
+finance partner.  He received his bachelor's degree from Florida State University  and is a graduate of the Harvard  
+Business School’s Advanced Management Program.  
+  
+Gregory Sting-President of the Americas  
+Mr. Sting joined PEAC in late 2014 to manage PEAC’s lease and loan portfolio and drive improvements in the servicing  
+departments. Prior to joining  PEAC, Mr. Sting was most recently the Chief Operations Officer of CIT Finance LLC and  
+was responsible for managing the servicing of the portfolio at the Jacksonville, FL facility. Areas of responsibilities  
+included collections, customer care, bad debt recovery, booking, sales support, onboarding and asset management. Mr.  
+Sting earned his bachelor’s degree in Business Administration from Heidelberg College and completed the Executive  
+MBA program at Bowling Green State University (Ohio).  
+  
+Mathew Petrick, Chief Financial Officer  
+With over 20 years of financial services experience, Mr. Petrick serves as the Chief Financial Officer of PEAC Solutions  
+with  responsibility for Accounting, FP&A, Treasury, and Payment Processing. Prior to PEAC  Solutions, Mr. Petrick was  
+the Chief Financial Officer of Allied Mortgage Group and Chief Accounting Officer of NewRez LLC. Earlier in his career,  
+he worked as a Senior Manager for RSM LLP and as an Experienced Manager for Grant Thornton LLP, both in the Financial  
+Services and Financial Institutions industry groups. Mr. Petrick received his BS in Finance from Lehigh University and  
+MBA in Finance and Accounting from Drexel University and is a CPA. He also earned certificates in Financial Analytics  
+and Transformative Fintech Services and Strategies from Wharton, University of Pennsylvania.  
+  
+Jeff Nicholas-Chief Risk Officer and Senior Vice President  
+Mr. Nicholas joined PEAC’s Risk Management team in February 2020 and was promoted to Chief Risk Officer in 2022.  Mr.  
+Nicholas has an extensive background in commercial finance with 30 years of Credit and Risk Management experience.  
+Prior to joining PEAC, he was Executive Vice President and Chief Risk Officer for BB&T Commercial Equipment Capital  
+from 2006 until 2019.  Mr. Nicholas has previously held senior leadership positions in Credit and Risk Management with  
+several other leading bank owned and independent leasing companies.  Mr. Nicholas received his bachelor’s degree from  
+West Chester University and an MBA from Penn State University.  
+  
+Michele Giordano-Chief Information Officer  
+Ms. Giordano joined PEAC Solutions in November 2014 as Head of Application Development and Support. Prior to joining  
+PEAC,  Ms. Giordano was  with ADP Commercial  Leasing for more than 17 years, most recently as Senior Director,  
+Business Strategies. Ms. Giordano holds a BS in Computer Science, a BS in Mathematics, and an MS in Computer Science  
+from the City University of New York.  
+  
+
+Originations  
+PEAC  Solutions  employs  a  salesforce  that  was  divided  by  program  type:  strategic  programs,  specialty  program,  
+independent dealer direct and express.  In 2021, sales functions were aligned by  management under a new structure  
+broken out by verticals focusing on specialized industry expertise:   
+  
+▪     Construction, Transportation, and Industrial  
+▪     Office Equipment & Technology  
+▪     Healthcare  
+▪     Direct, Broker, and Program Equipment   
+▪     Working Capital  
+▪     Inventory Finance  
+  
+
+PEAC 2025-1                                                                      8                                                            February  11, 2025  
+
+  
+﻿                                                                                                                                                                                       
+  
+Originations are generated through the Company’s network of  over  11,790  active  independent commercial equipment  
+dealers, as well as through relationships with brokers and directly with end user customers. As a result of its long history,  
+PEAC  Solutions  has  a large base of customers,  with over  60,000 active and over  422,000 lifetime customers.  PEAC  
+Solutions describes its originations model as a “fly wheel” in which dealer relationships create leads with end user customers  
+and end user customer relationships create leads with additional dealers. The model naturally accelerates growth from all  
+channels. Throughout PEAC Solutions’ history, the majority of originations have been equipment finance for a wide range  
+of small-ticket equipment. Beginning in 2015, the Company began offering an unsecured working capital loan product.  
+Originations of working capital loans were primarily sourced through existing equipment finance borrowers. The mix of  
+equipment finance and working capital originations has generally been about 90%/10% on average.  
+  
+The graph below shows the annual origination volume. The 2024 originations declined approximately 14% compared to  
+2023.  The decline was attributable to PEAC Solutions’ expanded relationship with Xerox  in 2023 which resulted in a  
+significant  spike  in  originations  from  the  prior  year.  Through  this  relationship,  PEAC  Solutions  purchases  Xerox  
+originations through a forward flow agreement and is the exclusive finance provider for Xerox indirect originations. The  
+Xerox originations volume in 2023 included  purchases of legacy Xerox originations at the advent of the program, and  
+therefore future originations growth were expected to be moderated, but still a significant component of total origination,  
+as compared to the change from 2022 to 2023.   Despite the aggregate decline YoY, originations through equipment  
+finance and working capital were up 27.0% and 11.6% respectively.  
+  
+
+                                                                                                                                                                                        
+  
+
+Xerox Contracts Underwriting and Servicing  
+  
+Direct  
+Contracts with Xerox direct customers continue to be originated by Xerox. Under the forward flow agreement, PEAC  
+Solutions  can  purchase these originations at its option. The decisioning around pricing of purchases is based on key  
+performance indicators developed based on Xerox direct contract performance by risk rating. Xerox direct contracts  
+continue to be serviced by Xerox on their systems.  
+  
+Indirect XBS  
+The contracts in this channel are generated through Xerox owned dealers selling Xerox equipment . As the exclusive  
+financing partner for indirect originations, PEAC Solutions has the right of first refusal for contracts in this channel. PEAC  
+US carries out the underwriting for this channel. The underwriting is based on a calibration of PEAC Solutions’ & Xerox’s  
+scoring  systems. The calibration aligned the decisioning framework by  probability of default by calibrating Xerox  risk  
+ratings and PEAC Solutions credit risk grade methodologies. Contracts are originated on Xerox approved forms and will  
+be funded directly by PEAC Solutions. While servicing of these contracts is carried out by PEAC Solutions employees,  
+primarily hired from Xerox, the servicing is carried out using Xerox’s systems. A transition is in progress after which  
+servicing will use PEAC Solutions systems.  
+  
+  
+  
+  
+  
+  
+
+PEAC 2025-1                                                                              9                                                                  February  11, 2025  
+
+  
+﻿                                                                                                                                                                           
+  
+Indirect ADR  
+The contracts  in this channel are generated through independent dealers selling both Xerox and other manufacturers’  
+equipment. These originations currently use PEAC Solutions’ underwriting. Documentation is primarily PEAC Solutions  
+forms with some approved third party private label documents.  Most of  the servicing for these contracts  uses  PEAC  
+Solutions’ standard systems, processes and people. A small portion of contracts from this channel use Xerox systems  
+to carry out servicing, however this is being transitioned to PEAC Solutions systems.  
+  
+
+Xerox Transition Process  
+Following the execution of the agreements in late 2023 under which PEAC  Solutions will service both the Xerox service  
+retained and purchased Xerox indirect originations, PEAC  Solutions  commenced a transition process. Immediately after  
+execution of the agreements, offers were extended by PEAC Solutions to the Xerox servicing and underwriting staff (40  
+US employees) and  all  the employees  accepted  their offers  by January 2024. While the transition process was  being  
+implemented,  PEAC  Solutions  employees  were  using  Xerox  systems,  processes,  lockbox,  outsourced  servicing  and  
+technology support providers for servicing. The legacy Xerox employees are reporting to PEAC  Solutions supervisors to  
+enable continuity and education. PEAC Solutions completed its development phase for the processes and systems for the  
+transferred servicing in November 2024. The goal is for transitioned systems and processes to go live by March 2025.  
+  
+There are various factors that PEAC Solutions management believes will facilitate a smooth transition process:  
+▪     A transition committee has been established which meets weekly with key leaders and stakeholders.  
+▪     Given that all the legacy Xerox employees accepted their offers, the servicing will be carried out by the same staff.  
+▪     PEAC Solutions has been booking and originating indirect ADR originations on its own system since September 2023.  
+▪     PEAC Solutions’  outsourced servicing staff was previously performing Xerox servicing and  most of  that staff has  
+      been retained by the third party servicer.  
+▪     PEAC Solutions and Xerox use the same lease servicing system.  
+▪     PEAC Solutions’ managed portfolio of small ticket contracts have been heavily weighted in copier leasing providing  
+      institutional knowledge around these types of contracts.  
+▪     The Xerox lockbox will remain open for the transition and will reroute misdirected payments.  
+▪     US Bank will remain in place as the backup servicer.  
+  
+
+PEAC Solutions Underwriting  
+  
+Dealer Underwriting and Monitoring  
+PEAC Solutions’ credit approval process includes underwriting of both its equipment dealer partners as well as obligors. The  
+Company has established guidelines to qualify new dealers. Dealer underwriting is based on commercial credit reports, virtual  
+or physical site inspection, reviews of manufacturer relationships, confirmation of time in business and equipment type. Dealers  
+are monitored monthly and a formal review is completed annually. PEAC Solutions tracks all applications and lease originations  
+by dealer and assesses whether the origination source has a high application decline rate and analyzes the portfolio performance  
+on the leases and loans originated through that source. PEAC Solutions will place an origination source on watch status if its  
+portfolio performance statistics are consistently below expectations. If the origination source's statistics do not improve in a  
+timely manner, PEAC Solutions often stops accepting applications from that origination source.  
+  
+End User Underwriting  
+All applicants are scored using PEAC Solutions’ customized scorecards. Key components to the scorecards include bureau scores  
+(Paynet, Experian, D&B), industry and state analysis, trade payments, time in business and business size. The underwriting  
+process differs based on the dollar amount of exposure with auto approvals permitted in some cases up to $500,000. The flow  
+transaction process applies to exposures up to $350,000 (or $500,000 for Construction Transportation & Industrial) and includes  
+rule  based  underwriting  guidelines,  PEAC  Solutions  and  bureau  scores  (Paynet,  Experian,  D&B),  bank  statements,  online  
+reputational searches and virtual and/or physical site inspections. The mid-ticket process applies to exposures over $350,000  
+(or $500,000 for Construction Transportation and Industrial)  and includes the flow process components as well as financial  
+statement analysis, industry specific risk acceptance criteria and industry analysis.   
+  
+Credit personnel use PEAC Solutions’ database and information management tools to monitor the characteristics and attributes  
+of the overall portfolio. Reports are produced to analyze origination source performance, end user customer delinquencies,  
+portfolio concentrations, trends, and other related indicators of portfolio performance. Any significant findings are presented to  
+the risk committee for review and action. Credit underwriting is subject to monitoring by governance risk, compliance teams  
+and internal audit to ensure that the credit department adheres to all underwriting guidelines and policies. Management reports  
+are regularly generated by these teams and departments detailing the results of these surveillance auditing activities.  
+  
+  
+
+PEAC 2025-1                                                                       10                                                              February  11, 2025  
+
+  
+﻿                                                                                                                                                                           
+  
+
+PEAC Solutions Servicing  
+  
+Equipment Finance Servicing  
+PEAC  Solutions’  servicing function includes a customer service department that handles customer inquiries, contract  
+adjustments, missed first payments and end of lease support. The collection strategy employs a delinquency bucket  
+segmentation  approach,  where  certain  collectors  are  assigned  to  accounts  based  on  their  delinquency  status.  The  
+delinquency bucket segmentation approach allows PEAC Solutions to assign its more skilled collectors to the later-stage  
+delinquent accounts. However, PEAC Solutions does rotate collectors to focus on the highest need areas.  
+  
+The collection activities typically begin with customer contact when a payment becomes five days past due and continue  
+throughout  the  delinquency  period.  PEAC  Solutions  utilizes  a  predictive  dialer  that  automates  outbound  telephone  
+dialing. The dialer is primarily used to focus on and reduce the number of accounts that are between 10 and 30 days  
+delinquent. A collection notice is normally sent once an account initially falls five days delinquent and then again at 10- 
+30, 45, 60, 75, 90, and 121 days past due. Collectors input notes directly into a servicing system, enabling the collectors  
+to monitor the status of delinquent accounts and promptly take any necessary actions. Scheduled  payments are not  
+considered delinquent unless more than 18% of a  scheduled  payment is not paid on its due date. In addition, late  
+charges are generally assessed when a customer fails to remit payment on a receivable by its due date.   
+  
+If the receivable continues to be delinquent, PEAC Solutions may exercise its remedies under the terms of the contract,  
+including acceleration of the entire receivable balance, litigation and/or repossession of any related equipment. Accounts  
+generally  placed on non-accrual status at 90 days past due and charged off at  181 days or more past due. At greater  
+than 120 days past due, and earlier in some cases such as bankruptcy, refusal to pay or inability to locate the obligor,  
+the accounts are referred to PEAC Solutions' internal recovery group, consisting of a team of paralegals and collectors.  
+The group utilizes several resources to  maximize recoveries on charged-off accounts, including: (i) initiating litigation  
+against the small business customer and any personal guarantor, using outside counsel retained by PEAC Solutions; (ii)  
+referring  the  account  to  an  outside  law  firm  or  collection  agency;  and/or  (iii)  repossessing  and  remarketing  the  
+equipment through third parties.  
+  
+Working Capital Servicing  
+Working Capital contracts are required to be set up on the Automated Clearing House (ACH) for payments and each  
+Working Capital contract has a personal guarantor. ACH rejections are monitored daily and collectors will reach out  if  
+the obligor’s payment does not process. The collections process is separated into three delinquency segments: 1 -14  
+days past due, 15-29 days past due and 30+ days past due. A collector is assigned to each delinquency segment, with  
+escalation of calls and  letters required as the  delinquency advances. Working Capital contracts contain cross default  
+language such that any other Equipment contracts with the same obligor would also default if the Working Capital  
+contract defaulted. Working Capital contracts are generally charged off at 61 days past due.  
+  
+Servicing and Operations Augmentation  
+While PEAC Solutions maintains complex processing in its US headquarters, the Company has augmented its servicing  
+and operations staff through an offshore partner. The team was secured through a business process outsourcing (BPO)  
+firm and was previously assigned to servicing Xerox Financial Solutions contracts. Only routine and administrative duties  
+are offshored such as flow credit, customer care, early-stage  collections,  accounts  receivable, application entry and  
+document generation. The offshore team authenticates into PEAC Solutions’ systems and no data is stored offsite. PEAC  
+Solutions’ US supervisors  and managers have continuous oversight  and communications with the offshore team  and  
+there are twice a month meetings with PEAC Solutions and BPO leadership.  
+  
+
+Collateral Analysis  
+The tables below show the collateral characteristics of the Cut-off ASV.  
+  
+The pool is comprised almost exclusively of monthly pay contracts.  
+  
+
+PEAC 2025-1                                                                       11                                                             February  11, 2025  
+
+  
+﻿                                                                                                                                                                             
+  
+                                                                        Payment Frequency 
+                                                                                                                                                    Percent of Total  
+                                                                                                   Number of          Total Securitization  
+                                   Payment Frequency                                                                                                 Securitization  
+                                                                                                    Contracts            Value ($000s) 
+                                                                                                                                                          Value 
+ Annual                                                                                                          17                          514                   0.07% 
+ Daily                                                                                                           10                         940                    0.12% 
+ Monthly                                                                                                    35,823                     736,351                   96.12% 
+ Quarterly                                                                                                       71                       1,829                    0.24% 
+ Semi-Annual                                                                                                       1                         154                   0.02% 
+ Weekly                                                                                                         384                      26,285                    3.43% 
+ Total                                                                                                      36,306                     766,073                      100% 
+                                                                                                                                                                             
+  
+A plurality of the pool has a remaining term to stated maturity in the 55-60 month range.  
+  
+                                                              Remaining Term to Stated Maturity 
+                                                                                                                                                   Percent of Total  
+                                                                                                   Number of          Total Securitization  
+                  Remaining Term to Stated Maturity (Months)                                                                                         Securitization  
+                                                                                                    Contracts            Value ($000s) 
+                                                                                                                                                          Value 
+ 1 - 6                                                                                                         729                        2,788                   0.36% 
+ 7 - 12                                                                                                      3,550                      27,768                    3.62% 
+ 13 - 18                                                                                                     4,455                      52,416                    6.84% 
+ 19 - 24                                                                                                     3,122                      57,748                    7.54% 
+ 25 - 30                                                                                                     1,001                      22,781                    2.97% 
+ 31 - 36                                                                                                     3,399                      64,491                    8.42% 
+ 37 - 42                                                                                                     1,744                      27,523                    3.59% 
+ 43 - 48                                                                                                     2,175                      48,281                    6.30% 
+ 49 - 54                                                                                                     3,154                      63,990                    8.35% 
+ 55 - 60                                                                                                    11,051                     303,436                   39.61% 
+ 61 - 66                                                                                                     1,692                      62,351                    8.14% 
+ 67 - 72                                                                                                       201                      26,968                    3.52% 
+ 73 - 85                                                                                                         33                       5,532                   0.72% 
+ Total                                                                                                      36,306                     766,073                     100% 
+                                                                                                                                                                             
+  
+A plurality of the pool has an original term to stated maturity in the 55-60 month range.  
+  
+                                                                Original Term to Stated Maturity 
+                                                                                                                                                   Percent of Total  
+                                                                                                   Number of          Total Securitization  
+                    Original Term to Stated Maturity (Months)                                                                                        Securitization  
+                                                                                                    Contracts            Value ($000s) 
+                                                                                                                                                          Value 
+ 6 - 12                                                                                                        612                      12,051                    1.57% 
+ 13 - 18                                                                                                       779                      35,444                    4.63% 
+ 19 - 24                                                                                                     1,086                      36,647                    4.78% 
+ 25 - 30                                                                                                         75                       2,704                   0.35% 
+ 31 - 36                                                                                                     3,540                      71,453                    9.33% 
+ 37 - 42                                                                                                     1,226                      20,998                    2.74% 
+ 43 - 48                                                                                                     3,397                      60,503                    7.90% 
+ 49 - 54                                                                                                       218                        5,979                   0.78% 
+ 55 - 60                                                                                                    21,242                     379,172                   49.50% 
+ 61 - 66                                                                                                     3,718                      98,123                   12.81% 
+ 67 - 72                                                                                                       388                      37,960                    4.96% 
+ >=73                                                                                                            25                       5,038                   0.66% 
+ Total                                                                                                      36,306                     766,073                     100% 
+                                                                                                                                                                             
+  
+The pool is diversified by securitization value.  
+  
+
+PEAC 2025-1                                                                        12                                                              February  11, 2025  
+
+  
+﻿                                                                                                                                                                            
+  
+                                                                        Securitization Value 
+                                                                                                                                                  Percent of Total  
+                                                                                                  Number of          Total Securitization  
+                                  Securitization Value                                                                                              Securitization  
+                                                                                                   Contracts            Value ($000s) 
+                                                                                                                                                         Value 
+ 0.01 - 10,000.00                                                                                          21,393                       94,524                  12.34% 
+ 10,000.01 - 20,000.00                                                                                      6,416                       90,259                  11.78% 
+ 20,000.01 - 30,000.00                                                                                      2,664                       65,258                   8.52% 
+ 30,000.01 - 40,000.00                                                                                      1,451                       50,379                   6.58% 
+ 40,000.01 - 50,000.00                                                                                         998                      44,668                   5.83% 
+ 50,000.01 - 60,000.00                                                                                         660                      36,071                   4.71% 
+ 60,000.01 - 70,000.00                                                                                         486                      31,561                   4.12% 
+ 70,000.01 - 80,000.00                                                                                         358                      26,799                   3.50% 
+ 80,000.01 - 90,000.00                                                                                         293                      24,829                   3.24% 
+ 90,000.01 - 100,000.00                                                                                        228                      21,649                   2.83% 
+ 100,000.01 - 110,000.00                                                                                       180                      18,864                   2.46% 
+ 110,000.01 - 120,000.00                                                                                       162                      18,646                   2.43% 
+ 120,000.01 - 130,000.00                                                                                       109                      13,607                   1.78% 
+ 130,000.01 - 140,000.00                                                                                       105                      14,110                   1.84% 
+ 140,000.01 - 150,000.00                                                                                        94                      13,636                   1.78% 
+ 150,000.01 - 250,000.00                                                                                       452                      86,309                  11.27% 
+ 250,000.01 - 500,000.00                                                                                       198                      63,630                   8.31% 
+ 500,000.01 - 1,000,000.00                                                                                      43                      29,454                   3.84% 
+ >=1,000,000.01                                                                                                 16                      21,818                   2.85% 
+ Total                                                                                                     36,306                     766,073                     100% 
+                                                                                                                                                                            
+  
+The pool is diversified by state.  
+  
+                                                                                  State 
+                                                                                                                                                   Percent of Total  
+                                                                                                   Number of         Total Securitization  
+                                            State                                                                                                   Securitization  
+                                                                                                   Contracts            Value ($000s) 
+                                                                                                                                                         Value 
+ California                                                                                                  4,083                     109,524                  14.30% 
+ Texas                                                                                                       3,905                      87,073                  11.37% 
+ Florida                                                                                                     2,720                      64,617                    8.43% 
+ New York                                                                                                    2,097                      50,018                    6.53% 
+ New Jersey                                                                                                    950                      25,322                    3.31% 
+ Illinois                                                                                                    1,148                      25,317                    3.30% 
+ Pennsylvania                                                                                                1,167                      24,800                    3.24% 
+ North Carolina                                                                                                869                      23,328                    3.05% 
+ Ohio                                                                                                        1,032                      21,750                    2.84% 
+ Georgia                                                                                                       771                      21,270                    2.78% 
+ Colorado                                                                                                    1,427                      20,676                    2.70% 
+ Massachusetts                                                                                                 848                      17,994                    2.35% 
+ Michigan                                                                                                      899                      17,754                    2.32% 
+ Virginia                                                                                                    1,018                      17,470                    2.28% 
+ Maryland                                                                                                      800                      16,871                    2.20% 
+ Louisiana                                                                                                     709                      16,322                    2.13% 
+ Washington                                                                                                    558                      15,742                    2.05% 
+ Connecticut                                                                                                   878                      13,460                    1.76% 
+ Arizona                                                                                                       610                      12,343                    1.61% 
+ Alabama                                                                                                       774                      12,014                    1.57% 
+ Hawaii                                                                                                      1,765                      11,074                    1.45% 
+ South Carolina                                                                                                616                      10,733                    1.40% 
+ Indiana                                                                                                       426                       9,447                    1.23% 
+ Oregon                                                                                                        436                       9,286                    1.21% 
+ Tennessee                                                                                                     386                       8,327                    1.09% 
+ Other(1)                                                                                                    5,414                     103,541                  13.52% 
+
+ Total                                                                                                     36,306                     766,073                      100% 
+(1) “Other” represents states which individually comprise less than approximately 1.00% of the securitization value of the pool as of the Cut-off Date. 
+                                                                                                                                                                            
+  
+The pool is diversified by obligor.  
+  
+
+PEAC 2025-1                                                                        13                                                             February  11, 2025  
+
+  
+﻿                                                                                                                                                                                  
+  
+                                                                            Top Ten Obligors 
+                                                                                                                                                        Percent of Total  
+                                                                                                      Number of          Total Securitization  
+                                      Top Ten Obligors                                                                                                   Securitization  
+                                                                                                       Contracts             Value ($000s) 
+                                                                                                                                                               Value 
+ Obligor 1                                                                                                            2                       3,448                     0.45% 
+ Obligor 2                                                                                                           26                       2,229                     0.29% 
+ Obligor 3                                                                                                            6                       2,228                     0.29% 
+ Obligor 4                                                                                                            4                       2,200                     0.29% 
+ Obligor 5                                                                                                            6                       2,165                     0.28% 
+ Obligor 6                                                                                                            1                       2,010                     0.26% 
+ Obligor 7                                                                                                            1                       1,756                     0.23% 
+ Obligor 8                                                                                                            1                       1,648                     0.22% 
+ Obligor 9                                                                                                            8                       1,646                     0.21% 
+ Obligor 10                                                                                                           2                       1,527                     0.20% 
+ Other                                                                                                         36,249                      745,218                    97.28% 
+ Total                                                                                                         36,306                      766,073                       100% 
+                                                                                                                                                                                  
+  
+The pool is concentrated in the service sector.  
+  
+                                                                                  Industry 
+                                                                                                                                                        Percent of Total  
+                                                                                                      Number of          Total Securitization  
+                                           Industry                                                                                                      Securitization  
+                                                                                                       Contracts             Value ($000s) 
+                                                                                                                                                               Value 
+ Service Sector                                                                                                19,835                      416,810                    54.41% 
+ Public, Health & Education                                                                                      6,649                     128,935                    16.83% 
+ Trading                                                                                                         2,926                       65,677                     8.57% 
+ Manufacturing                                                                                                   2,283                       53,354                     6.96% 
+ Transportation                                                                                                  1,251                       23,528                     3.07% 
+ Agriculture & Energy                                                                                              813                       15,064                     1.97% 
+ Financials & Insurance                                                                                            344                        8,394                     1.10% 
+ Other(1)                                                                                                        2,205                       54,311                     7.09% 
+
+ Total                                                                                                         36,306                      766,073                       100% 
+
+(1) “Other” represents industries which individually comprise less than approximately 1.00% of the securitization value of the pool as of the Cut-off Date. 
+                                                                                                                                                                                  
+  
+The pool is roughly evenly split between equipment and Xerox receivables. The largest Xerox channel is indirect at  
+25.91%.  
+  
+                                                                             Receivable Type 
+                                                                                                                                                        Percent of Total  
+                                                                                                      Number of          Total Securitization  
+                                      Receivable Type                                                                                                    Securitization  
+                                                                                                       Contracts             Value ($000s) 
+                                                                                                                                                               Value 
+ Equipment Receivables                                                                                         12,115                       377,202                   49.24% 
+ Working Capital Contracts                                                                                         485                       35,699                     4.66% 
+ Xerox Equipment Receivables (Direct Channel)                                                                  10,679                        73,842                     9.64% 
+ Xerox Equipment Receivables (Indirect Channel)                                                                  7,485                      198,491                   25.91% 
+ Xerox Equipment Receivables (ADR Channel)                                                                       5,542                       80,839                   10.55% 
+ Total                                                                                                         36,306                      766,073                       100% 
+                                                                                                                                                                                  
+  
+The pool is diversified by equipment cost.  
+  
+
+PEAC 2025-1                                                                           14                                                                February  11, 2025  
+
+  
+﻿                                                                                                                                                                          
+  
+                                                                          Equipment Cost 
+                                                                                                                                                 Percent of Total  
+                                                                                                 Number of          Total Securitization  
+                                     Equipment Cost                                                                                               Securitization  
+                                                                                                  Contracts            Value ($000s) 
+                                                                                                                                                        Value 
+ 0.01 - 10,000.00                                                                                         21,702                      98,326                  12.84% 
+ 10,000.01 - 20,000.00                                                                                     6,129                      88,805                  11.59% 
+ 20,000.01 - 30,000.00                                                                                     2,663                      66,722                    8.71% 
+ 30,000.01 - 40,000.00                                                                                      1,406                     49,838                    6.51% 
+ 40,000.01 - 50,000.00                                                                                        945                     43,652                    5.70% 
+ 50,000.01 - 60,000.00                                                                                        630                     35,905                    4.69% 
+ 60,000.01 - 70,000.00                                                                                        420                     28,307                    3.70% 
+ 70,000.01 - 80,000.00                                                                                        307                     23,740                    3.10% 
+ 80,000.01 - 90,000.00                                                                                        252                     22,217                    2.90% 
+ 90,000.01 - 100,000.00                                                                                       203                     19,766                    2.58% 
+ 100,000.01 - 150,000.00                                                                                      537                     67,521                    8.81% 
+ 150,000.01 - 200,000.00                                                                                      259                     45,694                    5.96% 
+ 200,000.01 - 250,000.00                                                                                      118                     27,198                    3.55% 
+ 250,000.01 - 300,000.00                                                                                      105                     29,049                    3.79% 
+ 300,000.01 - 350,000.00                                                                                       30                       9,868                   1.29% 
+ 350,000.01 - 400,000.00                                                                                       30                     11,240                    1.47% 
+ 400,000.01 - 450,000.00                                                                                       15                       6,461                   0.84% 
+ 450,000.01 - 500,000.00                                                                                       11                       5,176                   0.68% 
+ >=500,000.01                                                                                                  59                     50,888                    6.64% 
+ Working Capital Contracts                                                                                    485                     35,699                    4.66% 
+ Total                                                                                                    36,306                     766,073                     100% 
+                                                                                                                                                                          
+  
+A plurality of the pool is copiers and printers, which make up 55.79% of the pool.  
+  
+                                                                                             (1) 
+                                                                       Equipment Type 
+                                                                                                                                                 Percent of Total  
+                                                                                                 Number of          Total Securitization  
+                                    Equipment Type                                                                                                Securitization  
+                                                                                                  Contracts            Value ($000s) 
+                                                                                                                                                        Value 
+ Copiers & Printing                                                                                       23,706                     353,172                  46.10% 
+ Copiers                                                                                                   4,941                      74,235                    9.69% 
+ Other Construction                                                                                           725                     49,037                    6.40% 
+ Other C&I                                                                                                    677                     42,872                    5.60% 
+ Working Capital Contract                                                                                     485                     35,699                    4.66% 
+ Titled Vehicles-Commercial                                                                                   424                     28,211                    3.68% 
+ Medical                                                                                                      459                     20,247                    2.64% 
+ Dental Implant Systems                                                                                       495                     16,228                    2.12% 
+ Fitness                                                                                                      794                     15,015                    1.96% 
+ Cosmetic Therapy                                                                                             269                     11,343                    1.48% 
+ Other Restaurant                                                                                             243                       9,614                   1.25% 
+ Fork Lift                                                                                                    131                       8,190                   1.07% 
+ Other(1)                                                                                                  2,957                     102,209                  13.34% 
+
+ Total                                                                                                    36,306                     766,073                    100% 
+ (1 ) “Other” represents equipment types which individually comprise less than approximately 1.00% of the securitization value of the pool as of the Cut-off Date. 
+                                                                                                                                                                          
+  
+
+Managed Portfolio Performance  
+  
+
+Delinquency  
+The table below shows the managed portfolio delinquency and net loss performance for contracts originated or acquired  
+by PEAC Solutions and currently serviced by PEAC Solutions. The Equipment  Receivable delinquencies and net losses  
+have generally been consistent, except for the increase in net losses at year end 2020 related to medical contracts,  
+specifically dental equipment, as well as the more recent December 2023 increase related to the economic conditions  
+of small businesses. Elevated delinquencies and losses have continued into 2024.   
+  
+The  Working  Capital  delinquencies  have  seen  some  volatility.  At  year  end  2020  there  was  an  increase  related  to  
+transportation contracts. The significant  increases in December 2023 were related to an intentional strategy by PEAC  
+Solutions to expand these originations through a broker channel (indirect originations). The originations have now been  
+brought back to direct across all 50 states leading to improvement in performance, despite delinquencies and losses  
+have remained elevated in 2024.   
+
+PEAC 2025-1                                                                       15                                                             February  11, 2025  
+
+  
+﻿                                                                                                                                                                            
+  
+The Xerox  Equipment  losses are much lower than  Equipment  Receivables  and Working Capital, reflecting the higher  
+credit quality of the obligors. However, the higher credit quality obligors can exhibit more administrative delinquencies,  
+especially at year end.  
+  
+                                                                                                                    Year ended 
+                                                                Dec-24           Dec-23           Dec-22             Dec-21             Dec-20             Dec-19 
+ Equipment Receivables 
+ Contract Balance Remaining (CBR) ($000s)                     $1,443,462      $1,129,648            $997,931           $777,932           $849,250          $947,294 
+ Delinquency % CBR 
+ 31+ days                                                            4.06%           2.45%              1.68%              0.75%              1.59%              1.40% 
+ 61+ days                                                            2.61%           1.46%              0.85%              0.35%              0.78%              0.86% 
+ 91+ days                                                            1.78%           0.72%              0.35%              0.19%              0.45%              0.49% 
+ Average Portfolio ($000s)                                    $1,150,135      $1,018,304            $905,058           $950,767        $1,173,443         $1,199,518 
+ Net Loss % Average Portfolio                                        2.67%           2.85%              1.32%              1.03%              3.41%              1.95% 
+ Working Capital 
+ Principal Balance ($000s)                                        $58,925         $45,751            $30,649            $30,072            $20,050            $60,435 
+ Delinquency % CBR 
+ 15+ days                                                            6.89%           5.91%              3.73%              1.58%              4.99%              1.75% 
+ 30+ days                                                            6.51%           4.41%              2.78%              1.14%              3.69%              1.42% 
+ Average Portfolio ($000s)                                        $52,700         $45,751            $30,649            $24,511            $40,167            $49,438 
+ Net Loss % Average Portfolio                                        9.49%          11.50%              4.26%              2.50%              7.13%              5.17% 
+ Xerox Equipment 
+ Contract Balance Remaining (CBR) ($000s)                     $1,256,797         $997,382 
+ Delinquency % CBR 
+ 31+ days                                                            7.33%           8.22% 
+ 61+ days                                                            4.19%           3.93% 
+ 91+ days                                                            2.29%           2.03% 
+ Average Portfolio ($000s)                                    $1,173,538         $573,091 
+ Net Loss % Average Portfolio                                        0.53%           0.07% 
+                                                                                                                                                                            
+  
+
+CNL   
+The graphs below show the historical CNLs by vintage year broken out for Xerox purchased receivables, Equipment and  
+Working Capital as of the Cut-Off Date. The Xerox purchased receivables CNLs are generally lower than the Equipment  
+and  Working  Capital  CNLs.  This  results  from  the  better  obligor  credit  quality.  For  Equipment,  the  vintage  CNL  
+performance has been relatively consistent. The higher CNLs in the 2018 and 2019 vintages were related to medical  
+equipment contracts (specifically dental) as well as a higher percentage of originations with credit scores of 500-530.  
+Originations of these types are lower in more recent vintages. The increased CNLs for the 2022 vintage are related to  
+increased stress of macroeconomic factors on small businesses. For Working Capital, the higher 2019 vintage CNLs are  
+associated with transportation industry loans. PEAC Solutions scaled back originations of this type in its Working Capital  
+product.  The higher 2022 vintage CNLs reflect the intentional expansion of working capital originations through an  
+indirect source, which has since been scaled back leading to improved losses.  
+                                                                                       
+
+                                                                                                                                                                           
+                                                                                       
+
+PEAC 2025-1                                                                        16                                                             February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                                           
+  
+
+                                                                                                                                                                  
+                                                                                                               
+
+ KBRA CNL Assumption  
+In determining our CNL range for PEAC 2025-1, we reviewed gross and net loss vintage data for each of the three types  
+of  receivables  included  in  the  pool:  Equipment,  Xerox  Equipment,  and  Working  Capital.  KBRA  first  determined  a  
+cumulative gross loss assumption for each type. Then, the historical vintage data was used to determine a base case  
+recovery rate assumption for each type. The data dated back to the 2010 vintage for Equipment and the 2015 vintage  
+for Xerox Equipment and Working Capital. The CNL assumption range for the pool represents a weighted average of the  
+three individual receivable type CNLs.  
+  
+In determining the Xerox  Equipment  and  Equipment CNLs, KBRA considered data that  was provided both on a total  
+basis and broken out by various characteristics including equipment types, credit scores  and different types of direct  
+and indirect originations. KBRA also considered the performance of PEAC Solutions’ prior equipment ABS transactions.  
+The Working Capital CNL was based on the historical vintage gross and net loss performance on a total basis. The data  
+is not broken out by equipment type segments because the Working Capital collateral is not secured by equipment.   
+  
+Our base case CNL for the pool is  3.30-3.40%, which is  higher than our CNL range for  PEAC 2024-2. The increase  
+reflects the decreased  seasoning of the 2025-1  pool  as well as the change in segment mix. The CNL  differs for each  
+rating  because it  is based on the cumulative gross loss assumption reduced for the stressed recovery rate for each  
+rating  and  KBRA assumes lower recovery rates for higher rating categories, resulting in higher CNL assumptions for  
+higher ratings.   
+  
+
+ KBRA Comparative Analytic Tool (KCAT)  
+The  table  below  compares  the  collateral  characteristics  and  credit  enhancement  of  PEAC  2025-1  to  small-ticket  
+equipment ABS transactions that included generally similar equipment type concentrations and obligor characteristics.  
+   
+
+                                             Deal Name                                                           PEAC 2025-1                      GreatAmerica 2024-2                         DLLST 2024-1 
+
+ Cutoff Date                                                                                                      12/31/2024                             7/1/2024                               11/30/2023 
+                                                                                                Collateral Stratification 
+ Pool Balance (as of cutoff date) ($000s)                                                                                       $766,073                                $671,261                                $854,711 
+Average Contract Balance                                                                                                         $21,100                                 $21,874                                 $18,129 
+ Wtd Avg Original Term (months)                                                                                                        53                                      56                                     53 
+ Wtd Avg Remaining Term (months)                                                                                                       46                                      50                                  40.37 
+ Wtd Avg Seasoning (months)                                                                                                             7                                       6                                      13 
+                                                                                                    Equipment Type 
+                                                                                                                                                                                        Digital Copiers & Multifunctionals:  
+ Equipment 1                                                                                                   Copiers & Printing: 55.79%                 Office Imaging: 60.08% 
+                                                                                                                                                                                                                 55.97% 
+
+ Equipment 2                                                                                                   Other Construction: 6.40%    Light Industrial/ Construction: 10.35%                   Networking: 11.51% 
+
+ Equipment 3                                                                                                            Other C&I: 5.60%               Automotive Repair: 6.89%              Computer Equipment: 7.62% 
+
+                                                                                                Obligor Concentration(1) 
+
+ Largest Obligor                                                                                                                   0.45%                                   1.38%                                  0.76% 
+                                                                                               Geographic Concentration 
+ State 1                                                                                                                      CA: 14.30%                             TX: 14.96%                              NY: 11.97% 
+ State 2                                                                                                                      TX: 11.37%                               FL: 6.94%                             CA: 10.83% 
+ State 3                                                                                                                       FL: 8.43%                              CA: 6.49%                               TX: 8.67% 
+                                                                                               Note Balance ($ millions) 
+ Class A                                                                                                                            611.9                                   599.5                                  750.0 
+ Class B                                                                                                                             33.1                                    25.4                                       - 
+ Class C                                                                                                                             42.3                                    16.9                                       - 
+ Class D                                                                                                                                 -                                      -                                       - 
+ Class E                                                                                                                                 -                                      -                                       - 
+ Class F                                                                                                                                 -                                      -                                       - 
+Total                                                                                                                               687.3                                   641.9                                  750.0 
+                                                                                     Overcollateralization and Reserve Account(2) 
+
+ Initial O/C                                                                                                                      10.70%                                   5.25%                                 12.25% 
+Target O/C                                                                                                                        14.00%                                   5.25%                                 15.25% 
+ O/C Floor                                                                                                                         1.00%                                   1.00%                                 12.25% 
+ Reserve Account                                                                                                                   0.50%                                   0.50%                                  0.75% 
+ (1)For GreatAmerica 2024-2 represents a Partners In Leasing SPE entity. 
+
+ (2)Percentages are of initial pool balance, except target O/C which is percentage of current pool. 
+
+ Sources: KBRA, presale reports 
+                                                                                                                                                                                                                           
+
+PEAC 2025-1                                                                                               17                                                                               February  11, 2025  
+
+  
+﻿                                                                                                                                                                 
+  
+Please see this link to download the KCAT.  
+  
+
+Cashflow Analysis  
+KBRA performed cash flow modeling to determine if each class of notes could repay by its legal final maturity date under  
+stress assumptions consistent with the ratings. The table below shows KBRA’s stress assumptions for each class. The  
+CNL for each class differs slightly because it represents the cumulative gross loss assumption reduced by the stressed  
+recovery rate for each class. KBRA applies different stressed recovery rates by rating to reflect more stress on recoveries  
+at higher rating categories. KBRA considered a range of stress assumptions for prepayments and loss curves. The table  
+shows  the  assumptions  that  resulted  in  the  lowest  coverage  amounts  (i.e.  constraining  runs).  Under  the  stress  
+assumptions, each class paid timely interest and principal by its legal final maturity date.  KBRA considered multiples  
+above the midpoint of the range  in its Equipment Lease & Loan Global ABS Methodology. The higher multiples reflect  
+potential volatility of loss performance related to servicing transition and integration related to the Xerox  Equipment  
+Receivables, as well as recent volatility in loss performance for Equipment Receivables and Working Capital Receivables.  
+For the Class A-1 Notes, KBRA ran an additional stress scenario to apply a liquidity stress. This scenario assumes no  
+losses and no prepayments, and the Class A-1 Notes repay one month prior to their legal final maturity date.   
+    
+  
+                                                      KBRA Cash Flow Modeling Results 
+                Stress Assumption                                      Class A                          Class B                         Class C 
+ Prepayment (CPR)                                                                        5%                              5%                            10% 
+ Loss Curve                                                                     35/50/15                        35/50/15                         35/50/15 
+ Stressed Recovery Rate                                                               7.2%                            7.9%                            8.5% 
+ Breakeven CNL                                                                      21.4%                           17.1%                           12.9% 
+ CNL                                                                                  3.6%                            3.6%                            3.5% 
+ Multiple                                                                                6.0                             4.8                             3.6 
+                                                                                                                                                                
+  
+
+Rating Sensitivity and Surveillance  
+The ratings assigned to PEAC 2025-1 will be monitored throughout the life of the transaction. If the performance of the  
+transaction, including losses, differs meaningfully from the expected levels, KBRA may consider making a rating change.  
+  
+The table illustrates the potential for downgrade of each investment  
+                                                                                                             Class and Rating Sensitivity 
+grade rated class if the expected cumulative net loss levels exceed  
+                                                                                                  CNL Increase            Class A       Class B        Class C 
+initial  expectations  based  upon  the  leverage  in  the  transaction  
+currently. ‘Stable’ means a downgrade is unlikely. ‘Moderate’ means a                                     0%               Stable        Stable         Stable 
+potential downgrade of up to one rating category is possible. ‘Severe’                                   10%               Stable        Stable         Stable 
+indicates a multi-category downgrade is possible.                                                        20%               Stable        Stable       Moderate 
+                                                                                                         30%               Stable      Moderate  Moderate 
+It  should  be  noted  that  many  factors,  including  economic  stress,                                40%             Moderate  Moderate  Moderate 
+market       conditions      and     servicing      operations        can    impact      the  
+                                                                                                         50%             Moderate  Moderate  Moderate 
+performance         of    the    portfolio     and     influence      rating     decisions.  
+                                                                                                         60%             Moderate  Moderate            Severe 
+Furthermore,  the  table  considers  the  current  credit  enhancement  
+available to the transaction as well as KBRA’s assumptions regarding                                     70%             Moderate        Severe        Severe 
+the timing of losses.                                                                                    80%               Severe        Severe        Severe 
+  
+
+ESG Considerations  
+KBRA ratings incorporate relevant credit factors, including those that relate to Environmental, Social, and Governance  
+(ESG). The following section highlights ESG considerations that are generally associated with ABS securitizations such  
+as  the  subject  transaction.  Transaction-specific  ESG  factors  are  highlighted  below,  where  applicable,  using                                          
+Environmental,            Social, and        Governance indicators.  
+
+  Environmental Factors  
+
+            Climate Change and Natural Disasters  
+    
+            Climate change, natural disasters, and the outbreak of epidemic disease can pose long-term economic risk  
+            that can put meaningful and, at times, sudden, pressure on transaction cash flow. Portfolio diversity can help  
+            mitigate this risk relative to more concentrated pools. Conversely, high collateral concentration leaves the  
+            pool susceptible to adverse economic conditions, changing consumer preferences, regional recessions, and  
+            natural disasters, which may negatively affect transaction collections and / or performance. Certain states  
+
+PEAC 2025-1                                                                   18                                                         February  11, 2025  
+
+  
+﻿                                                                                                                                                                              
+  
+             are vulnerable to natural disasters such as earthquakes, wildfires, and hurricanes. The occurrence of such an  
+             event  may  cause  reductions  to  transaction  net  cash  flow.  KBRA’s  analytical  process  considers  collateral  
+             diversification; for more information, please see the Collateral Analysis section of this report.  
+               
+             ▪     The pool's largest state exposure is California (14.30%).  
+               
+             Environmental Laws/Regulations  
+
+             The effects of various environmental laws and regulations may negatively affect the equipment industry. Many  
+             aspects of equipment leasing operations, including emissions levels, air, water, solid waste, hazardous and  
+             toxic materials, and noise pollution are subject to environmental, health and safety laws, and regulations.  
+             Regulatory developments could adversely affect operations and increase operating costs in the equipment  
+             industry. KBRA considers how a manager indicates it monitors and responds to such laws and regulations.  
+             Please refer to the Originator and Servicer Review section for additional information.  
+               
+             Equipment ABS transactions may include vehicles, such as trucks, that are subject to emissions standards.  
+             When  these  standards  change,  the  recovery  value  of  older,  non-compliant  vehicles  can  be  negatively  
+             impacted. KBRA determines base case recovery rates for equipment pools and applies stresses to the base  
+             case to ultimately determine a cumulative net loss assumption. The base case recovery rates are determined  
+             using historical static pool data, which can be impacted by changing emissions standards for pools that include  
+             a material portion of vehicle collateral.   
+               
+
+  Social Factors  
+
+             Demographic and Economic Trends  
+   
+             Changes in demographic trends and the overall direction of the economy can impact consumer preferences,  
+   
+             affecting the long-term viability of the products and services that drive transaction cash flow. Please see the  
+             Originator and Servicer Review section for details.  
+               
+
+  Governance Factors  
+
+             Key Transaction Parties  
+   
+             KBRA considers the capabilities of key parties and their respective affiliates involved in effectuating transaction  
+             functions in its analysis, including, but not limited to, the originator, primary servicer, back-up servicer and  
+             other parties, as applicable. The governance structure (e.g. underwriting criteria, loss mitigation, collateral  
+             management, collections policies, recovery process, residual setting policies, disaster recovery) employed by  
+             the  Company  for  originating  and  servicing  the  equipment  is  an  important  credit  consideration  in  KBRA’s  
+             analysis.  KBRA  typically  considers  the  impact,  if  any,  of  the  relative  strengths  and  weaknesses  of  the  
+             transaction parties, which may lead to adjustments (positive or negative) in its base case assumptions. Please  
+             refer to the section for additional information regarding the transaction parties and servicing of collateral.   
+               
+             Structure  
+
+             Transaction structure is an important governance factor in structured finance transactions as many structural  
+             aspects, such as adherence to representations and warranties, indemnification obligations in place, compliance  
+             with origination standards and eligibility criteria and / or concentration limits, if applicable, reporting of collateral  
+             performance, debt service and event-related triggers, and segregation and application of cashflows, require  
+             parties to act in good faith and certify the accuracy of such  information. Failure to do so could impact actual  
+             performance. KBRA considers the transaction structural features such as, but not limited to: cash management  
+             arrangements;  operational  complexity  of  the  business;  reserve  requirements  for  upfront  and  ongoing  
+             obligations; waterfall provisions; the bankruptcy remoteness of the Issuer; and underlying collateral for the  
+             debt, as applicable, in the ratings analysis. KBRA considers these structural features, credit enhancement, and  
+             transaction documents during the course of our credit analysis and ratings assignment process. Please refer to  
+             the section for additional information regarding the structure.  
+  
+
+                                                
+
+PEAC 2025-1                                                                         19                                                              February  11, 2025  
+
+  
+﻿                                                                                                                                                                                        
+  
+
+Transaction Structure  
+The following is intended to be a concise summary of the transaction structure. It does not contain all the information  
+that may be relevant to understanding the transaction’s mechanics, which are available in the offering materials and/or  
+transaction documents.  
+  
+
+  Legal Structure  
+
+                                  
+  Transaction  
+  Structure  
+  Diagram  
+
+                                                                                                                                                                                      
+                                 
+
+                               On each payment date prior to an event of default, the indenture trustee will make distributions in  
+  Priority of                  the following priority :  
+  Payments Prior  
+                                 
+  to an Event of               (1)      Servicing fee (1% or 1.25% if back-up servicer is the successor servicer), administration fees  
+  Default                               ($3,000  per  year)  and  expenses  and  indemnitees  to  the  successor  servicer  (capped  at  
+
+                                        $50,000 per year);  
+                               (2)      Indenture  trustee  fees  ($15,000  per  year),  successor  custodian  fees  and  expenses  and  
+                                        indemnitees (capped at $10,000 per month);  
+                               (3)      Back-up servicing fee (greater of 0.010% per year or $3,500 per month) and expenses and  
+                                        indemnitees (capped at $15,000 per year);  
+                               (4)      First, successor servicer engagement fee ($150,000) and second, transition costs (capped at  
+                                        $125,000);  
+                               (5)      Class A note interest;  
+                               (6)      Pay  principal  sequentially  equal  to  first  priority  principal  distributable  amount  (excess  of  
+                                        principal of Class A notes over ASV);  
+                               (7)      Class B note interest;  
+                               (8)      Pay principal sequentially equal to second priority principal distributable amount (excess of  
+                                        principal of Class A and B notes over ASV);  
+                               (9)      Class C note interest;  
+
+PEAC 2025-1                                                                              20                                                                  February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                  
+  
+
+                                (10)       Pay principal sequentially equal to third priority principal distributable amount (excess of  
+                                           principal of Class A, B and C notes over ASV;  
+                                (11)       Reserve account up to the required amount;  
+                                (12)       Pay regular principal distribution amount (excess of all note principal over ASV less target  
+                                           overcollateralization) sequentially;  
+                                (13)       Amounts payable to indenture trustee, back-up servicer and successor custodian;  
+                                (14)       Amounts not paid in clauses (1) to successor servicer because of cap;  
+                                (15)       Operating expenses of the Issuer; and  
+                                (16)       All remaining amounts to the certificateholder.  
+
+                                The occurrence of any of the following events will be an “event of default” under the indenture:  
+  Events of  
+                                  
+  Default                        a)     Failure to pay interest on most senior class of notes outstanding (for five business days);  
+
+                                  b)    Failure to pay principal on legal final maturity date;  
+                                 c)     Issuer covenant breach (for 60 days);  
+                                 d)     Issuer breach of indenture representation or warranty breach (for 60 days); or  
+                                 e)     Issuer bankruptcy.  
+                                  
+
+                                The transaction’s indenture may be amended without the consent of noteholders in order to make  
+  Transaction                   certain amendments which do not have an adverse effect on the rights of the noteholders.  If an  
+  Amendment                     amendment to the indenture modifies the rights of noteholders, the consent of the noteholders  
+  Process                       representing at least 66 2/3% of the principal balance of the most senior class of notes (the  
+
+                                “Control Party”) is required. Certain amendments (such as an increase, reduction, acceleration or  
+                                delay in distributions to be made to noteholders) require that the holders of all notes affected by  
+                                the amendment provide their consent. All amendments to the indenture require prior notice to the  
+                                rating agency.    
+
+                                For  more  detailed  information  regarding  the  representations,  warranties  and  enforcement  
+  Representations               mechanisms available under the transaction documents, please see KBRA’s Representations and  
+  & Warranties                  Warranties Disclosure. The Representations and Warranties Disclosure is available here.  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+PEAC 2025-1                                                                                  21                                                                      February  11, 2025  
+
+  
+﻿                                                                                                                                                                                                                 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+©  Copyright  2025,  Kroll  Bond  Rating  Agency,  LLC  and/or  its  affiliates  and  licensors  (together,  “KBRA”).  All  rights  reserved.  All  
+information contained herein is proprietary to KBRA and is protected by copyright and other intellectual property law, and none of such  
+information may be copied or otherwise reproduced, further transmitted, redistributed, repackaged or resold, in whole or in part, by  
+any  person,  without  KBRA’s  prior  express  written  consent.  Information,  including  any  ratings,  is  licensed  by  KBRA  under  these  
+conditions. Misappropriation or misuse of KBRA information may cause serious damage to KBRA for which money damages may not  
+constitute a sufficient remedy; KBRA shall have the right to obtain an injunction or other equitable relief in addition to  any other  
+remedies. The statements contained herein are based solely upon the opinions of KBRA and the data and information available to the  
+authors at the time of publication. All information contained herein is obtained by KBRA from sources believed by it to be accurate and  
+reliable; however, all information, including any ratings, is provided “AS IS”. No warranty, express or implied, as to the accuracy,  
+timeliness, completeness, merchantability, or fitness for any particular purpose of any rating or other opinion or information is given  
+or made by KBRA. Under no circumstances shall KBRA have any liability resulting from the use of any such information, including  
+without  limitation,  for  any  indirect,  special,  consequential,  incidental  or  compensatory  damages  whatsoever  (including  without  
+limitation, loss of profits, revenue or goodwill), even if KBRA is advised of the possibility of such damages. The credit ratings, if any,  
+and analysis constituting part of the information contained herein are, and must be construed solely as, statements of opinion and not  
+statements of fact or recommendations to purchase, sell or hold any securities. KBRA receives compensation for its rating activities  
+from issuers, insurers, guarantors and/or underwriters of debt securities for assigning ratings and from subscribers to its website.  
+Please read KBRA’s full disclaimers and terms of use at www.kbra.com.  
+
+PEAC 2025-1                                                                                          22                                                                           February  11, 2025  
+
+  
